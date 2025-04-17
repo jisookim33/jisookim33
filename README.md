@@ -4,9 +4,9 @@
 <br />
 - 💡 All of my projects are available at <a href="https://www.linkedin.com/in/jisookim33">portfolio.comTEMP</a><br />
 - 💬 Ask me about <b>SQL, Excel, Python, and Tableau</b><br />
-- 📫 How to reach me <strong>imjisookim@gmail.com</strong><br />
+- 📫 How to reach me <b>imjisookim@gmail.com</b><br />
 - 📄 Know about my experiences <a href="https://www.linkedin.com/in/jisookim33">resume.comTEMP</a><br />
-- ⚡ Fun fact **I believe data speaks louder than words - but I do love good coffee and Python scripts!**
+- ⚡ Fun fact <b>I believe data speaks louder than words - but I do love good coffee and Python scripts!</b>
 
 <br />
 <h3 align="left">🛠️ Languages and Tools:</h3>
